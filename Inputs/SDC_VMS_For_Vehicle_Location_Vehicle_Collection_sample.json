@@ -1,0 +1,23 @@
+{
+	"connection_key": "response",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+	"VehicleLocation": {
+		"VMSVehicleLocation":"",
+		"VMSVehicleLocation_Text":"",
+		"AddressNumber":"",
+		"BusinessPartnerName1":"",
+		"CityName":"",
+		"PostalCode":"",
+		"HouseNumber":"",
+		"StreetName":"",
+		"Country":"",
+		"Region":"",
+		"LogicalSystem":""
+	},
+	"api_schema": "VMSForVehicleLocation",
+	"accepter": ["VehicleLocation"],
+	"vms_for_vehicle_location_code": "",
+	"deleted": false
+}
